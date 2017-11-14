@@ -1,378 +1,927 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lizihan-iris.com/index.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/index.html</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/iris.png</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/iris.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/iris_2x.png</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/iris_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/iris885x529.png</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/iris885x529.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/iris885x529_2x.png</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/iris885x529_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/qr-code.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/about.html</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256504x378.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256504x378_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256530x397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256530x397_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256422x317.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_8256422x317_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/serialism.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/artworks.html</loc>
+    <lastmod>2017-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137909x521.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137909x521_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0102-crop-u3070.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0102-crop-u3070_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%204-crop-u3080.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%204-crop-u3080_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/breath823x492.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/breath823x492_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_2513600x451.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_2513600x451_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/calli1364x815.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/calli1364x815_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase%20copy_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137923x529.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137923x529_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%204-crop-u30802.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%204-crop-u3080_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase%20copy443x442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase%20copy443x442_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0102-crop-u30702.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0102-crop-u3070_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_2513923x693.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_2513923x693_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/breath929x555.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/breath929x555_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/calli1165x697.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/calli1165x697_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137727x417.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137727x417_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%204-crop-u30803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%204-crop-u3080_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase%20copy350x349.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase%20copy350x349_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0102-crop-u30703.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0102-crop-u3070_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_2513728x546.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_2513728x546_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/breath732x437.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/breath732x437_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/calli918x549.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/calli918x549_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/about.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/cv.html</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo186x174.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo186x174_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256504x378.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo157x146.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256504x378_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256530x397.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256530x397_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256422x317.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_8256422x317_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo157x146_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/artworks.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/contact.html</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137909x521.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137909x521_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0102-crop-u3070.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0102-crop-u3070_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204-crop-u3080.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204-crop-u3080_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/phonecase.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/breath823x492.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/breath823x492_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/calli1364x815.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/calli1364x815_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_2513600x451.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_2513600x451_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137923x529.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137923x529_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204-crop-u30802.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204-crop-u3080_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0102-crop-u30702.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0102-crop-u3070_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_2513923x693.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_2513923x693_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/breath929x555.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/breath929x555_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/calli1165x697.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/calli1165x697_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137727x417.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8882137727x417_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204-crop-u30803.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204-crop-u3080_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0102-crop-u30703.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0102-crop-u3070_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_2513728x546.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_2513728x546_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/breath732x437.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/breath732x437_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/calli918x549.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/calli918x549_2x.png</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/cv.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/qr-code.html</loc>
+    <lastmod>2017-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo186x174.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo186x174_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo157x146.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo157x146_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010459x258.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010459x258_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302444x258.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302444x258_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803457x258.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803457x258_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852611x469.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852611x469_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009834x468.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009834x468_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010388x218.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010388x218_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302375x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302375x219_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803387x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803387x219_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852517x396.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852517x396_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009705x396.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009705x396_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010316x177.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113010316x177_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302305x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113302305x178_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803314x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88113803314x178_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852420x322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-24%20%E4%B8%8B%E5%8D%8881852420x322_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009573x322.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-10-25%20%E4%B8%8B%E5%8D%88114009573x322_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/contact.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/serialism.html</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/2%E5%AD%97.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/2%E5%AD%97_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/1%E5%AD%97.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/1%E5%AD%97_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/4%E5%AD%97.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/4%E5%AD%97_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/3%E5%AD%97.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/3%E5%AD%97_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/2%E5%AD%97539x530.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/2%E5%AD%97539x530_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/1%E5%AD%97520x530.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/1%E5%AD%97520x530_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/4%E5%AD%97539x537.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/4%E5%AD%97539x537_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/3%E5%AD%97520x537.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/3%E5%AD%97520x537_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/2%E5%AD%97435x427.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/2%E5%AD%97435x427_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/1%E5%AD%97419x427.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/1%E5%AD%97419x427_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/4%E5%AD%97435x433.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/4%E5%AD%97435x433_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/3%E5%AD%97419x433.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/3%E5%AD%97419x433_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/breath.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/archive.html</loc>
+    <lastmod>2017-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/16722833_1038959979581672_5005128978342137934_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/16722833_1038959979581672_5005128978342137934_o_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/16722833_1038959979581672_5005128978342137934_o639x456.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lizihan-iris.com/images/16722833_1038959979581672_5005128978342137934_o639x456_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/pipe.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/breath.html</loc>
+    <lastmod>2017-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0135.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/16722833_1038959979581672_5005128978342137934_o.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0135_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0135639x425.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0135639x425_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/haiku.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0139.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/haiku_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0139_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0139639x425.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/_dsc0139639x425_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/16722833_1038959979581672_5005128978342137934_o912x650.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202491x491.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202491x491_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932237x316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932237x316_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951237x316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951237x316_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884316x316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884316x316_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953400x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953400x300_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952400x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952400x300_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/haiku449x491.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/haiku449x491_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929421x316.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929421x316_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954400x300.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954400x300_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/16722833_1038959979581672_5005128978342137934_o802x571.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202432x432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202432x432_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932209x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932209x278_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951209x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951209x278_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953352x264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953352x264_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952352x264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952352x264_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/haiku395x432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/haiku395x432_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884278x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884278x278_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929370x278.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929370x278_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954352x264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954352x264_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/16722833_1038959979581672_5005128978342137934_o737x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202397x397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/fullsizerender%202397x397_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/haiku363x397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/haiku363x397_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932192x256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7932192x256_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951192x256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7951192x256_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884256x256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7884256x256_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929341x256.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7929341x256_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953323x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7953323x243_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952323x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7952323x243_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954323x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_7954323x243_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/archive.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/pipe.html</loc>
+    <lastmod>2017-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0139.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0139_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0135.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0135_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0139639x425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0139639x425_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0135639x425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/_dsc0135639x425_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/sugar-hk.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/sugar-hk.html</loc>
+    <lastmod>2017-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/sugar.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/sugar_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_0039.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/img_0039.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_0039_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/img_0039_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204639x639.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/sugar969x726.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/fullsizerender%204639x639_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/sugar969x726_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_0039639x426.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/img_0039754x503.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/img_0039639x426_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/img_0039754x503_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/sugar821x616.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/sugar821x616_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_0039639x426.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/img_0039639x426_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://lizihan-iris.com/private-products.html</loc>
-    <lastmod>2017-10-30</lastmod>
+    <loc>http://lizihan-iris-2.com/private-products.html</loc>
+    <lastmod>2017-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lizihan-iris.com/images/logo_2x.jpg</image:loc>
+      <image:loc>http://lizihan-iris-2.com/images/logo_2x.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://lizihan-iris.com/assets/_dsc0139.xmp</loc>
-    <lastmod>2017-10-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lizihan-iris.com/assets/personal-website.psd</loc>
-    <lastmod>2017-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/collar.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/collar_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led42.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase552x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase552x388_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/collar572x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/collar572x388_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led2543x344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led2543x344_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led1582x344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led1582x344_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4333x245.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4333x245_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led3436x245.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led3436x245_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4382x246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4382x246_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase448x314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/phonecase448x314_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/collar464x314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/collar464x314_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led2440x279.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led2440x279_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led1472x279.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led1472x279_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4270x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4270x199_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led3354x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led3354x199_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4310x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lizihan-iris-2.com/images/led4310x199_2x.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
