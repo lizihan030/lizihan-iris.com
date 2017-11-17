@@ -1,37 +1,32 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lizihan-iris-3.com" resolutions="1x,2x" timestamp="1510763445323">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lizihan-iris-4.com" resolutions="1x,2x" timestamp="1510947931041">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4121893192" ref="contact:archive:sugar-hk:index:cv:serialism-calligraphy:pipe:artworks:qr-code:breath:private-products:about"/>
-    <file name="nomq_preview_master_a-master.css" crc="4024043077" ref="contact:archive:sugar-hk:index:cv:serialism-calligraphy:pipe:artworks:qr-code:breath:private-products:about"/>
-    <file name="contact.css" crc="80520307" ref="contact"/>
-    <file name="nomq_contact.css" crc="3897188680" ref="contact"/>
-    <file name="archive.css" crc="151523987" ref="archive"/>
-    <file name="nomq_archive.css" crc="235255955" ref="archive"/>
-    <file name="sugar-hk.css" crc="4145633856" ref="sugar-hk"/>
-    <file name="nomq_sugar-hk.css" crc="503314540" ref="sugar-hk"/>
-    <file name="index.css" crc="4240827667" ref="index"/>
-    <file name="nomq_index.css" crc="309379092" ref="index"/>
-    <file name="cv.css" crc="134507432" ref="cv"/>
+    <file name="master_a-master.css" crc="4294866713" ref="artworks:pipe:serialism-calligraphy:cv:index:sugar-hk:archive:contact:about:private-products:breath:qr-code"/>
+    <file name="nomq_preview_master_a-master.css" crc="4024043077" ref="artworks:pipe:serialism-calligraphy:cv:index:sugar-hk:archive:contact:about:private-products:breath:qr-code"/>
+    <file name="artworks.css" crc="46581161" ref="artworks"/>
+    <file name="nomq_artworks.css" crc="405902571" ref="artworks"/>
+    <file name="pipe.css" crc="3815292673" ref="pipe"/>
+    <file name="nomq_pipe.css" crc="3912077586" ref="pipe"/>
+    <file name="serialism-calligraphy.css" crc="4188875242" ref="serialism-calligraphy"/>
+    <file name="nomq_serialism-calligraphy.css" crc="224121775" ref="serialism-calligraphy"/>
+    <file name="cv.css" crc="69802980" ref="cv"/>
     <file name="nomq_cv.css" crc="417489315" ref="cv"/>
-    <file name="serialism-calligraphy.css" crc="296819005" ref="serialism-calligraphy"/>
-    <file name="nomq_serialism-calligraphy.css" crc="49109747" ref="serialism-calligraphy"/>
-    <file name="pipe.css" crc="165051763" ref="pipe"/>
-    <file name="nomq_pipe.css" crc="336470454" ref="pipe"/>
-    <file name="artworks.css" crc="440017262" ref="artworks"/>
-    <file name="nomq_artworks.css" crc="4103651513" ref="artworks"/>
-    <file name="qr-code.css" crc="521717724" ref="qr-code"/>
-    <file name="nomq_qr-code.css" crc="4201841485" ref="qr-code"/>
-    <file name="breath.css" crc="3780161257" ref="breath"/>
-    <file name="nomq_breath.css" crc="3925362833" ref="breath"/>
-    <file name="private-products.css" crc="146049001" ref="private-products"/>
-    <file name="nomq_private-products.css" crc="506503628" ref="private-products"/>
-    <file name="about.css" crc="440340788" ref="about"/>
+    <file name="index.css" crc="22411236" ref="index"/>
+    <file name="nomq_index.css" crc="309379092" ref="index"/>
+    <file name="sugar-hk.css" crc="397671124" ref="sugar-hk"/>
+    <file name="nomq_sugar-hk.css" crc="340831360" ref="sugar-hk"/>
+    <file name="archive.css" crc="260812754" ref="archive"/>
+    <file name="nomq_archive.css" crc="235255955" ref="archive"/>
+    <file name="contact.css" crc="4007625331" ref="contact"/>
+    <file name="nomq_contact.css" crc="3897188680" ref="contact"/>
+    <file name="about.css" crc="4041730564" ref="about"/>
     <file name="nomq_about.css" crc="4043625688" ref="about"/>
-  </folder>
-  <folder name="assets">
-    <file name="_dsc0139.xmp" crc="146148113" seo="true" mt="1510759068000"/>
-    <file name="melt.mov" crc="149841729" seo="true" mt="1510735483000"/>
-    <file name="_dsc0139.dng" crc="61232192" seo="true" mt="1510759065000"/>
+    <file name="private-products.css" crc="3774474720" ref="private-products"/>
+    <file name="nomq_private-products.css" crc="506503628" ref="private-products"/>
+    <file name="breath.css" crc="96315007" ref="breath"/>
+    <file name="nomq_breath.css" crc="3925362833" ref="breath"/>
+    <file name="qr-code.css" crc="3932241937" ref="qr-code"/>
+    <file name="nomq_qr-code.css" crc="4201841485" ref="qr-code"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products"/>
@@ -59,82 +54,82 @@
     <file name="u556-4.png" crc="44286835" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products"/>
     <file name="u556-4_2x.png" crc="390149812" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products"/>
     <file name="logo.jpg" crc="4154527649" seo="true" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products">
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="artworks" alt=""/>
       <caption webpage="artworks" alt=""/>
       <caption webpage="artworks" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="archive" alt=""/>
       <caption webpage="cv" alt=""/>
       <caption webpage="cv" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
       <caption webpage="breath" alt=""/>
       <caption webpage="breath" alt=""/>
       <caption webpage="breath" alt=""/>
       <caption webpage="breath" alt=""/>
-      <caption webpage="archive" alt=""/>
-      <caption webpage="archive" alt=""/>
-      <caption webpage="archive" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
     </file>
     <file name="logo_2x.jpg" crc="371395952" seo="true" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products">
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="artworks" alt=""/>
       <caption webpage="artworks" alt=""/>
       <caption webpage="artworks" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="serialism-calligraphy" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="archive" alt=""/>
+      <caption webpage="archive" alt=""/>
       <caption webpage="cv" alt=""/>
       <caption webpage="cv" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
       <caption webpage="breath" alt=""/>
       <caption webpage="breath" alt=""/>
       <caption webpage="breath" alt=""/>
       <caption webpage="breath" alt=""/>
-      <caption webpage="archive" alt=""/>
-      <caption webpage="archive" alt=""/>
-      <caption webpage="archive" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products"/>
     <file name="u225.png" crc="3884965443" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products"/>
@@ -211,16 +206,16 @@
     <file name="屏幕快照 2017-10-24 下午82137909x521_2x.jpg" crc="469735410" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="_dsc0102832x552.jpg" crc="4230593791" seo="true" ref="artworks">
+    <file name="_dsc0102832x552.jpg" crc="194114727" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="_dsc0102832x552_2x.jpg" crc="58375955" seo="true" ref="artworks">
+    <file name="_dsc0102832x552_2x.jpg" crc="333956366" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="fullsizerender 4-crop-u3080.jpg" crc="4130210502" seo="true" ref="artworks">
+    <file name="fullsizerender 4-crop-u3080.jpg" crc="356644773" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="fullsizerender 4-crop-u3080_2x.jpg" crc="265377327" seo="true" ref="artworks">
+    <file name="fullsizerender 4-crop-u3080_2x.jpg" crc="3841927588" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
     <file name="breath823x492.png" crc="3787948003" seo="true" ref="artworks">
@@ -253,10 +248,10 @@
     <file name="屏幕快照 2017-10-24 下午82137923x529_2x.jpg" crc="280132597" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="fullsizerender 4-crop-u30802.jpg" crc="50165336" seo="true" ref="artworks">
+    <file name="fullsizerender 4-crop-u30802.jpg" crc="4019307546" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="fullsizerender 4-crop-u3080_2x2.jpg" crc="3967796684" seo="true" ref="artworks">
+    <file name="fullsizerender 4-crop-u3080_2x2.jpg" crc="4151114687" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
     <file name="phonecase copy443x442.jpg" crc="395706958" seo="true" ref="artworks">
@@ -265,10 +260,10 @@
     <file name="phonecase copy443x442_2x.jpg" crc="4062682567" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="_dsc0102.jpg" crc="4197668858" seo="true" ref="artworks">
+    <file name="_dsc0102.jpg" crc="214768532" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="_dsc0102_2x.jpg" crc="273265584" seo="true" ref="artworks">
+    <file name="_dsc0102_2x.jpg" crc="235650584" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
     <file name="img_2513923x693.jpg" crc="4273178458" seo="true" ref="artworks">
@@ -295,7 +290,7 @@
     <file name="屏幕快照 2017-10-24 下午82137727x417_2x.jpg" crc="362133631" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="fullsizerender 4-crop-u30803.jpg" crc="417601636" seo="true" ref="artworks">
+    <file name="fullsizerender 4-crop-u30803.jpg" crc="235119483" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
     <file name="fullsizerender 4-crop-u3080_2x3.jpg" crc="3996939754" seo="true" ref="artworks">
@@ -307,10 +302,10 @@
     <file name="phonecase copy350x349_2x.jpg" crc="429546295" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="_dsc0102725x482.jpg" crc="505879989" seo="true" ref="artworks">
+    <file name="_dsc0102728x483.jpg" crc="3992213911" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
-    <file name="_dsc0102725x482_2x.jpg" crc="1402825" seo="true" ref="artworks">
+    <file name="_dsc0102728x483_2x.jpg" crc="34512257" seo="true" ref="artworks">
       <caption webpage="artworks" alt=""/>
     </file>
     <file name="img_2513728x546.jpg" crc="22225460" seo="true" ref="artworks">
@@ -609,16 +604,16 @@
     <file name="1，0_2x.jpg" crc="480390713" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0.jpg" crc="432958813" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，0_2x.jpg" crc="180636550" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="1，1.jpg" crc="505855365" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="1，1_2x.jpg" crc="4108811835" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0.jpg" crc="432958813" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0_2x.jpg" crc="180636550" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="0，1.jpg" crc="3791915119" seo="true" ref="serialism-calligraphy">
@@ -678,8 +673,8 @@
     <file name="screen shot 2017-11-15 at 73314 pm_2x.jpg" crc="4016931722" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="u17987-27.png" crc="39308838" ref="serialism-calligraphy"/>
-    <file name="u17987-27_2x.png" crc="4103240296" ref="serialism-calligraphy"/>
+    <file name="u17987-27.png" crc="3794961048" ref="serialism-calligraphy"/>
+    <file name="u17987-27_2x.png" crc="230991" ref="serialism-calligraphy"/>
     <file name="u21776-45.png" crc="119075766" ref="serialism-calligraphy"/>
     <file name="u21776-45_2x.png" crc="182630099" ref="serialism-calligraphy"/>
     <file name="(0,0).jpg" crc="499010089" seo="true" ref="serialism-calligraphy">
@@ -746,16 +741,16 @@
     <file name="1，0552x566_2x.jpg" crc="4265424664" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0556x557.jpg" crc="4235434582" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，0556x557_2x.jpg" crc="4003807608" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="1，1552x560.jpg" crc="85716387" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="1，1552x560_2x.jpg" crc="4135251790" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0556x557.jpg" crc="4235434582" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0556x557_2x.jpg" crc="4003807608" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="0，1546x560.jpg" crc="351695186" seo="true" ref="serialism-calligraphy">
@@ -815,8 +810,8 @@
     <file name="screen shot 2017-11-15 at 73314 pm203x245_2x.jpg" crc="405496458" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="u17987-272.png" crc="285523301" ref="serialism-calligraphy"/>
-    <file name="u17987-27_2x2.png" crc="467203681" ref="serialism-calligraphy"/>
+    <file name="u17987-272.png" crc="3922403884" ref="serialism-calligraphy"/>
+    <file name="u17987-27_2x2.png" crc="243663592" ref="serialism-calligraphy"/>
     <file name="u21776-452.png" crc="31195727" ref="serialism-calligraphy"/>
     <file name="u21776-45_2x2.png" crc="97188222" ref="serialism-calligraphy"/>
     <file name="(0,0)668x668.jpg" crc="215469789" seo="true" ref="serialism-calligraphy">
@@ -889,8 +884,6 @@
     <file name="1，1475x482_2x.jpg" crc="4128537761" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="u24007-143.png" crc="473121422" ref="serialism-calligraphy"/>
-    <file name="u24007-14_2x3.png" crc="182943914" ref="serialism-calligraphy"/>
     <file name="0，0478x479.jpg" crc="90530205" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
@@ -903,6 +896,8 @@
     <file name="0，1470x482_2x.jpg" crc="4126108486" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
+    <file name="u24007-143.png" crc="473121422" ref="serialism-calligraphy"/>
+    <file name="u24007-14_2x3.png" crc="182943914" ref="serialism-calligraphy"/>
     <file name="u17576_states3.png" crc="4232280834" ref="serialism-calligraphy"/>
     <file name="u17576_states_2x3.png" crc="481371469" ref="serialism-calligraphy"/>
     <file name="u17576_states-r3.png" crc="150600704" ref="serialism-calligraphy"/>
@@ -958,8 +953,8 @@
     <file name="screen shot 2017-11-15 at 73314 pm174x211_2x.jpg" crc="498234938" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="u17987-273.png" crc="20771157" ref="serialism-calligraphy"/>
-    <file name="u17987-27_2x3.png" crc="90991986" ref="serialism-calligraphy"/>
+    <file name="u17987-273.png" crc="366499002" ref="serialism-calligraphy"/>
+    <file name="u17987-27_2x3.png" crc="352136665" ref="serialism-calligraphy"/>
     <file name="u21776-453.png" crc="4227953978" ref="serialism-calligraphy"/>
     <file name="u21776-45_2x3.png" crc="482597948" ref="serialism-calligraphy"/>
     <file name="(0,0)575x575.jpg" crc="4033126944" seo="true" ref="serialism-calligraphy">
@@ -1024,16 +1019,16 @@
     <file name="1，0383x393_2x.jpg" crc="3836671689" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0386x386.jpg" crc="93885398" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，0386x386_2x.jpg" crc="4041353189" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="1，1383x389.jpg" crc="216145854" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="1，1383x389_2x.jpg" crc="277761440" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0386x386.jpg" crc="93885398" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0386x386_2x.jpg" crc="4041353189" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="0，1379x389.jpg" crc="3876732015" seo="true" ref="serialism-calligraphy">
@@ -1095,8 +1090,8 @@
     <file name="screen shot 2017-11-15 at 73314 pm141x170_2x.jpg" crc="73512001" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="u17987-274.png" crc="3941028551" ref="serialism-calligraphy"/>
-    <file name="u17987-27_2x4.png" crc="69371997" ref="serialism-calligraphy"/>
+    <file name="u17987-274.png" crc="3922472108" ref="serialism-calligraphy"/>
+    <file name="u17987-27_2x4.png" crc="4097528618" ref="serialism-calligraphy"/>
     <file name="u21776-454.png" crc="3807602998" ref="serialism-calligraphy"/>
     <file name="u21776-45_2x4.png" crc="3853730998" ref="serialism-calligraphy"/>
     <file name="(0,0)463x464.jpg" crc="4197561826" seo="true" ref="serialism-calligraphy">
@@ -1510,36 +1505,30 @@
     </file>
     <file name="u26048-44.png" crc="3899593955" ref="breath"/>
     <file name="u26048-4_2x4.png" crc="53043832" ref="breath"/>
-    <file name="pipe21296x861.jpg" crc="13132261" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="pipe21296x861_2x.jpg" crc="3996409437" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="u25524-33.png" crc="320772996" ref="pipe"/>
-    <file name="u25524-33_2x.png" crc="434405961" ref="pipe"/>
+    <file name="u25524-33.png" crc="4081855464" ref="pipe"/>
+    <file name="u25524-33_2x.png" crc="372965862" ref="pipe"/>
     <file name="screen shot 2017-11-15 at 113030 pm.jpg" crc="63994450" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 113030 pm_2x.jpg" crc="408998861" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1307.jpg" crc="83573979" seo="true" ref="pipe">
+    <file name="screen shot 2017-11-15 at 113122 pm.jpg" crc="4223989444" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1307_2x.jpg" crc="222595212" seo="true" ref="pipe">
+    <file name="screen shot 2017-11-15 at 113122 pm_2x.jpg" crc="4034822097" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1425.jpg" crc="4272547446" seo="true" ref="pipe">
+    <file name="img_1307404x538.jpg" crc="44314334" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1425_2x.jpg" crc="3924251712" seo="true" ref="pipe">
+    <file name="img_1307404x538_2x.jpg" crc="4190762360" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1308.jpg" crc="4265101319" seo="true" ref="pipe">
+    <file name="img_1425304x540.jpg" crc="295930938" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1308_2x.jpg" crc="17682623" seo="true" ref="pipe">
+    <file name="img_1425304x540_2x.jpg" crc="4155472500" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
     <file name="pipe1.jpg" crc="3808980715" seo="true" ref="pipe">
@@ -1560,42 +1549,30 @@
     <file name="u12984_states_2x.png" crc="177947015" ref="pipe"/>
     <file name="u12984_states-r.png" crc="416740025" ref="pipe"/>
     <file name="u12984_states-r_2x.png" crc="3850764246" ref="pipe"/>
-    <file name="screen shot 2017-11-15 at 113122 pm.jpg" crc="4223989444" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="screen shot 2017-11-15 at 113122 pm_2x.jpg" crc="4034822097" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="pipe21028x683.jpg" crc="276682058" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="pipe21028x683_2x.jpg" crc="3957598600" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="u25524-332.png" crc="4115499716" ref="pipe"/>
-    <file name="u25524-33_2x2.png" crc="1734355" ref="pipe"/>
+    <file name="u25524-332.png" crc="4208595848" ref="pipe"/>
+    <file name="u25524-33_2x2.png" crc="4191933371" ref="pipe"/>
     <file name="screen shot 2017-11-15 at 113030 pm567x447.jpg" crc="233961407" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 113030 pm567x447_2x.jpg" crc="4150145171" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1307349x466.jpg" crc="132931381" seo="true" ref="pipe">
+    <file name="screen shot 2017-11-15 at 113122 pm622x316.jpg" crc="5538114" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1307349x466_2x.jpg" crc="3867259828" seo="true" ref="pipe">
+    <file name="screen shot 2017-11-15 at 113122 pm622x316_2x.jpg" crc="512093707" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1425262x466.jpg" crc="4148374314" seo="true" ref="pipe">
+    <file name="img_1307333x443.jpg" crc="4177124127" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1425262x466_2x.jpg" crc="451744765" seo="true" ref="pipe">
+    <file name="img_1307333x443_2x.jpg" crc="461494516" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1308621x466.jpg" crc="502983435" seo="true" ref="pipe">
+    <file name="img_1425250x443.jpg" crc="99510060" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1308621x466_2x.jpg" crc="191738977" seo="true" ref="pipe">
+    <file name="img_1425250x443_2x.jpg" crc="3806638844" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
     <file name="pipe1737x490.jpg" crc="4233380489" seo="true" ref="pipe">
@@ -1612,28 +1589,16 @@
     </file>
     <file name="u25601-72.png" crc="483360727" ref="pipe"/>
     <file name="u25601-7_2x2.png" crc="122997410" ref="pipe"/>
-    <file name="u12984_states2.png" crc="4084940938" ref="pipe"/>
-    <file name="u12984_states_2x2.png" crc="311176847" ref="pipe"/>
-    <file name="u12984_states-r2.png" crc="113772219" ref="pipe"/>
-    <file name="u12984_states-r_2x2.png" crc="4162653476" ref="pipe"/>
-    <file name="screen shot 2017-11-15 at 113122 pm622x316.jpg" crc="5538114" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="screen shot 2017-11-15 at 113122 pm622x316_2x.jpg" crc="512093707" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="pipe2823x547.jpg" crc="89092929" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="pipe2823x547_2x.jpg" crc="4060496443" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="u25524-333.png" crc="391407320" ref="pipe"/>
-    <file name="u25524-33_2x3.png" crc="467345930" ref="pipe"/>
-    <file name="u12984_states3.png" crc="376649116" ref="pipe"/>
-    <file name="u12984_states_2x3.png" crc="399609510" ref="pipe"/>
-    <file name="u12984_states-r3.png" crc="499916367" ref="pipe"/>
-    <file name="u12984_states-r_2x3.png" crc="341056305" ref="pipe"/>
+    <file name="u12984_states2.png" crc="3914486535" ref="pipe"/>
+    <file name="u12984_states_2x2.png" crc="4251178680" ref="pipe"/>
+    <file name="u12984_states-r2.png" crc="264617945" ref="pipe"/>
+    <file name="u12984_states-r_2x2.png" crc="4186867691" ref="pipe"/>
+    <file name="u25524-333.png" crc="155434597" ref="pipe"/>
+    <file name="u25524-33_2x3.png" crc="3931323751" ref="pipe"/>
+    <file name="u12984_states3.png" crc="4232503138" ref="pipe"/>
+    <file name="u12984_states_2x3.png" crc="494194341" ref="pipe"/>
+    <file name="u12984_states-r3.png" crc="238875322" ref="pipe"/>
+    <file name="u12984_states-r_2x3.png" crc="4154114982" ref="pipe"/>
     <file name="screen shot 2017-11-15 at 113030 pm454x358.jpg" crc="4214220267" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
@@ -1646,22 +1611,16 @@
     <file name="screen shot 2017-11-15 at 113122 pm499x253_2x.jpg" crc="300365455" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1307280x373.jpg" crc="4099534779" seo="true" ref="pipe">
+    <file name="img_1307266x355.jpg" crc="4190498996" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1307280x373_2x.jpg" crc="280179006" seo="true" ref="pipe">
+    <file name="img_1307266x355_2x.jpg" crc="3920586309" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1425210x373.jpg" crc="422792671" seo="true" ref="pipe">
+    <file name="img_1425200x355.jpg" crc="3979076311" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
-    <file name="img_1425210x373_2x.jpg" crc="3943453863" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="img_1308498x373.jpg" crc="4048831580" seo="true" ref="pipe">
-      <caption webpage="pipe" alt=""/>
-    </file>
-    <file name="img_1308498x373_2x.jpg" crc="4126660025" seo="true" ref="pipe">
+    <file name="img_1425200x355_2x.jpg" crc="197026430" seo="true" ref="pipe">
       <caption webpage="pipe" alt=""/>
     </file>
     <file name="pipe1591x392.jpg" crc="4177523173" seo="true" ref="pipe">
@@ -1686,10 +1645,10 @@
     </file>
     <file name="u13542-37.png" crc="3903582858" ref="sugar-hk"/>
     <file name="u13542-37_2x.png" crc="378774917" ref="sugar-hk"/>
-    <file name="img_1152.jpg" crc="3818212960" seo="true" ref="sugar-hk">
+    <file name="img_1152327x437.jpg" crc="3818212960" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1152_2x.jpg" crc="4028911412" seo="true" ref="sugar-hk">
+    <file name="img_1152327x437_2x.jpg" crc="4028911412" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
     <file name="img_0039655x436.jpg" crc="4217584796" seo="true" ref="sugar-hk">
@@ -1742,46 +1701,46 @@
     </file>
     <file name="u13542-372.png" crc="18619564" ref="sugar-hk"/>
     <file name="u13542-37_2x2.png" crc="4077694273" ref="sugar-hk"/>
-    <file name="img_0039754x503.jpg" crc="439260109" seo="true" ref="sugar-hk">
+    <file name="img_1152.jpg" crc="273193477" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_0039754x503_2x.jpg" crc="4127062906" seo="true" ref="sugar-hk">
+    <file name="img_1152_2x.jpg" crc="278535776" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1152261x348.jpg" crc="4054972391" seo="true" ref="sugar-hk">
+    <file name="img_0039575x384.jpg" crc="3944969487" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1152261x348_2x.jpg" crc="151071783" seo="true" ref="sugar-hk">
+    <file name="img_0039575x384_2x.jpg" crc="3819566133" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="hk2016_002448x299.jpg" crc="4021209524" seo="true" ref="sugar-hk">
+    <file name="hk2016_002575x384.jpg" crc="4122697068" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="hk2016_002448x299_2x.jpg" crc="335733855" seo="true" ref="sugar-hk">
+    <file name="hk2016_002575x384_2x.jpg" crc="4148570923" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_0003.jpg" crc="238070356" seo="true" ref="sugar-hk">
+    <file name="img_0003.jpg" crc="3927952664" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_0003_2x.jpg" crc="167157333" seo="true" ref="sugar-hk">
+    <file name="img_0003_2x.jpg" crc="75985764" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender.jpg" crc="248311654" seo="true" ref="sugar-hk">
+    <file name="fullsizerender.jpg" crc="274219587" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender_2x.jpg" crc="9866582" seo="true" ref="sugar-hk">
+    <file name="fullsizerender_2x.jpg" crc="4062427831" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1496356x356.jpg" crc="4293288778" seo="true" ref="sugar-hk">
+    <file name="img_1496318x318.jpg" crc="26314019" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1496356x356_2x.jpg" crc="262752869" seo="true" ref="sugar-hk">
+    <file name="img_1496318x318_2x.jpg" crc="4163817618" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender 3356x356.jpg" crc="64303114" seo="true" ref="sugar-hk">
+    <file name="fullsizerender 3320x320.jpg" crc="3921242686" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender 3356x356_2x.jpg" crc="3844157937" seo="true" ref="sugar-hk">
+    <file name="fullsizerender 3320x320_2x.jpg" crc="456438044" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
     <file name="u21034-62.png" crc="43824428" ref="sugar-hk"/>
@@ -1802,46 +1761,46 @@
     </file>
     <file name="u13542-373.png" crc="4221610886" ref="sugar-hk"/>
     <file name="u13542-37_2x3.png" crc="3956386543" ref="sugar-hk"/>
-    <file name="img_0039639x426.jpg" crc="242515957" seo="true" ref="sugar-hk">
+    <file name="img_1152313x417.jpg" crc="3799968969" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_0039639x426_2x.jpg" crc="4187353519" seo="true" ref="sugar-hk">
+    <file name="img_1152313x417_2x.jpg" crc="3909276069" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1152221x295.jpg" crc="47001200" seo="true" ref="sugar-hk">
+    <file name="img_0039488x325.jpg" crc="4258559866" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1152221x295_2x.jpg" crc="4281514046" seo="true" ref="sugar-hk">
+    <file name="img_0039488x325_2x.jpg" crc="3994637799" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="hk2016_002380x253.jpg" crc="284396771" seo="true" ref="sugar-hk">
+    <file name="hk2016_002488x325.jpg" crc="3867773943" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="hk2016_002380x253_2x.jpg" crc="3842741769" seo="true" ref="sugar-hk">
+    <file name="hk2016_002488x325_2x.jpg" crc="142626572" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_0003540x360.jpg" crc="4042841904" seo="true" ref="sugar-hk">
+    <file name="img_0003586x391.jpg" crc="4089320373" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_0003540x360_2x.jpg" crc="3913007426" seo="true" ref="sugar-hk">
+    <file name="img_0003586x391_2x.jpg" crc="3796982759" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender360x360.jpg" crc="4145001685" seo="true" ref="sugar-hk">
+    <file name="fullsizerender390x390.jpg" crc="82176509" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender360x360_2x.jpg" crc="4287638639" seo="true" ref="sugar-hk">
+    <file name="fullsizerender390x390_2x.jpg" crc="529120771" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1496302x302.jpg" crc="4170625350" seo="true" ref="sugar-hk">
+    <file name="img_1496270x270.jpg" crc="500122999" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="img_1496302x302_2x.jpg" crc="219063622" seo="true" ref="sugar-hk">
+    <file name="img_1496270x270_2x.jpg" crc="4019935446" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender 3302x302.jpg" crc="229912694" seo="true" ref="sugar-hk">
+    <file name="fullsizerender 3272x272.jpg" crc="4180479521" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
-    <file name="fullsizerender 3302x302_2x.jpg" crc="476068043" seo="true" ref="sugar-hk">
+    <file name="fullsizerender 3272x272_2x.jpg" crc="3767443777" seo="true" ref="sugar-hk">
       <caption webpage="sugar-hk" alt=""/>
     </file>
     <file name="u21034-63.png" crc="430994904" ref="sugar-hk"/>
@@ -1997,16 +1956,16 @@
     <file name="u19365-193.png" crc="182435635" ref="private-products"/>
     <file name="u19365-19_2x3.png" crc="305058651" ref="private-products"/>
   </folder>
-  <file name="index.html" crc="4185715760" seo="true" mt="1510582887567" redirect="true"/>
-  <file name="about.html" crc="3892035732" seo="true" mt="1510582887567" redirect="true"/>
-  <file name="artworks.html" crc="4051619071" seo="true" mt="1510761506722" redirect="true"/>
-  <file name="cv.html" crc="4184844262" seo="true" mt="1510738269079" redirect="true"/>
-  <file name="contact.html" crc="205000230" seo="true" mt="1510582887567" redirect="true"/>
-  <file name="qr-code.html" crc="443153877" seo="true" mt="1510656524318" redirect="true"/>
-  <file name="serialism-calligraphy.html" crc="104427969" seo="true" mt="1510761506723" redirect="true"/>
-  <file name="archive.html" crc="507959350" seo="true" mt="1510763305897" redirect="true"/>
-  <file name="breath.html" crc="530696046" seo="true" mt="1510760824290" redirect="true"/>
-  <file name="pipe.html" crc="387858341" seo="true" mt="1510760377425" redirect="true"/>
-  <file name="sugar-hk.html" crc="3806653656" seo="true" mt="1510750821853" redirect="true"/>
-  <file name="private-products.html" crc="442746008" seo="true" mt="1510745052988" redirect="true"/>
+  <file name="index.html" crc="155857441" seo="true" mt="1510582887567" redirect="true"/>
+  <file name="about.html" crc="140985745" seo="true" mt="1510582887567" redirect="true"/>
+  <file name="artworks.html" crc="4163091365" seo="true" mt="1510947803037" redirect="true"/>
+  <file name="cv.html" crc="3911972778" seo="true" mt="1510738269079" redirect="true"/>
+  <file name="contact.html" crc="317292901" seo="true" mt="1510582887567" redirect="true"/>
+  <file name="qr-code.html" crc="427751613" seo="true" mt="1510656524318" redirect="true"/>
+  <file name="serialism-calligraphy.html" crc="3975909820" seo="true" mt="1510947560762" redirect="true"/>
+  <file name="archive.html" crc="354577474" seo="true" mt="1510926511337" redirect="true"/>
+  <file name="breath.html" crc="281462255" seo="true" mt="1510760824290" redirect="true"/>
+  <file name="pipe.html" crc="94946078" seo="true" mt="1510947097952" redirect="true"/>
+  <file name="sugar-hk.html" crc="4127816196" seo="true" mt="1510947441967" redirect="true"/>
+  <file name="private-products.html" crc="287019344" seo="true" mt="1510745052988" redirect="true"/>
 </manifest>
