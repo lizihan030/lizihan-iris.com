@@ -1,41 +1,41 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lizihan-iris-6.com" resolutions="1x,2x" timestamp="1511955336396">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lizihan-iris-6.com" resolutions="1x,2x" timestamp="1514409984135">
   <folder name="css">
-    <file name="site_global.css" crc="3787251826"/>
-    <file name="master_a-master.css" crc="32132356" ref="sugar-hk:private-products:index:cv:serialism-calligraphy:pipe:artworks:qr-code:breath:about:contact:archive"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="sugar-hk:private-products:index:cv:serialism-calligraphy:pipe:artworks:qr-code:breath:about:contact:archive"/>
-    <file name="sugar-hk.css" crc="3894761954" ref="sugar-hk"/>
-    <file name="nomq_sugar-hk.css" crc="3966144252" ref="sugar-hk"/>
+    <file name="site_global.css" crc="138641475"/>
+    <file name="master_a-master.css" crc="289827457" ref="sugar-hk:index:cv:serialism-calligraphy:pipe:artworks:qr-code:breath:private-products:about:contact:archive"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="sugar-hk:index:cv:serialism-calligraphy:pipe:artworks:qr-code:breath:private-products:about:contact:archive"/>
+    <file name="sugar-hk.css" crc="4239473564" ref="sugar-hk"/>
+    <file name="nomq_sugar-hk.css" crc="4164203049" ref="sugar-hk"/>
     <file name="iefonts_sugar-hk.css" crc="3824530138" ref="sugar-hk"/>
-    <file name="private-products.css" crc="454060760" ref="private-products"/>
-    <file name="nomq_private-products.css" crc="451022732" ref="private-products"/>
-    <file name="iefonts_private-products.css" crc="3824530138" ref="private-products"/>
-    <file name="index.css" crc="4060672834" ref="index"/>
-    <file name="nomq_index.css" crc="386235572" ref="index"/>
-    <file name="cv.css" crc="57587509" ref="cv"/>
-    <file name="nomq_cv.css" crc="4154500447" ref="cv"/>
+    <file name="index.css" crc="285597114" ref="index"/>
+    <file name="nomq_index.css" crc="413021277" ref="index"/>
+    <file name="cv.css" crc="436901177" ref="cv"/>
+    <file name="nomq_cv.css" crc="386981128" ref="cv"/>
     <file name="iefonts_cv.css" crc="3824530138" ref="cv"/>
-    <file name="serialism-calligraphy.css" crc="96912214" ref="serialism-calligraphy"/>
-    <file name="nomq_serialism-calligraphy.css" crc="3758415842" ref="serialism-calligraphy"/>
+    <file name="serialism-calligraphy.css" crc="444942716" ref="serialism-calligraphy"/>
+    <file name="nomq_serialism-calligraphy.css" crc="3835075924" ref="serialism-calligraphy"/>
     <file name="iefonts_serialism-calligraphy.css" crc="3824530138" ref="serialism-calligraphy"/>
-    <file name="pipe.css" crc="3784409877" ref="pipe"/>
-    <file name="nomq_pipe.css" crc="329543381" ref="pipe"/>
+    <file name="pipe.css" crc="4269608505" ref="pipe"/>
+    <file name="nomq_pipe.css" crc="33223044" ref="pipe"/>
     <file name="iefonts_pipe.css" crc="3824530138" ref="pipe"/>
-    <file name="artworks.css" crc="146791681" ref="artworks"/>
+    <file name="artworks.css" crc="4243051040" ref="artworks"/>
     <file name="nomq_artworks.css" crc="4132640360" ref="artworks"/>
-    <file name="qr-code.css" crc="4257612525" ref="qr-code"/>
-    <file name="nomq_qr-code.css" crc="3761440597" ref="qr-code"/>
+    <file name="qr-code.css" crc="3998506083" ref="qr-code"/>
+    <file name="nomq_qr-code.css" crc="76345001" ref="qr-code"/>
     <file name="iefonts_qr-code.css" crc="3824530138" ref="qr-code"/>
-    <file name="breath.css" crc="357667879" ref="breath"/>
-    <file name="nomq_breath.css" crc="90023404" ref="breath"/>
+    <file name="breath.css" crc="104198508" ref="breath"/>
+    <file name="nomq_breath.css" crc="4059298217" ref="breath"/>
     <file name="iefonts_breath.css" crc="3824530138" ref="breath"/>
-    <file name="about.css" crc="494320967" ref="about"/>
+    <file name="private-products.css" crc="65420396" ref="private-products"/>
+    <file name="nomq_private-products.css" crc="8119520" ref="private-products"/>
+    <file name="iefonts_private-products.css" crc="3824530138" ref="private-products"/>
+    <file name="about.css" crc="4204969697" ref="about"/>
     <file name="nomq_about.css" crc="3968634423" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="contact.css" crc="4161378757" ref="contact"/>
+    <file name="contact.css" crc="4002755399" ref="contact"/>
     <file name="nomq_contact.css" crc="4102886727" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="archive.css" crc="3915686504" ref="archive"/>
-    <file name="nomq_archive.css" crc="4035744196" ref="archive"/>
+    <file name="archive.css" crc="235150509" ref="archive"/>
+    <file name="nomq_archive.css" crc="171202395" ref="archive"/>
     <file name="iefonts_archive.css" crc="3824530138" ref="archive"/>
   </folder>
   <folder name="scripts">
@@ -59,111 +59,111 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo.jpg" crc="4154527649" seo="true" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products">
-      <caption webpage="artworks" alt=""/>
-      <caption webpage="artworks" alt=""/>
-      <caption webpage="artworks" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="artworks" alt=""/>
+      <caption webpage="artworks" alt=""/>
+      <caption webpage="artworks" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
       <caption webpage="cv" alt=""/>
       <caption webpage="cv" alt=""/>
       <caption webpage="cv" alt=""/>
     </file>
     <file name="logo_2x.jpg" crc="371395952" seo="true" ref="index:about:artworks:cv:contact:qr-code:serialism-calligraphy:archive:breath:pipe:sugar-hk:private-products">
-      <caption webpage="artworks" alt=""/>
-      <caption webpage="artworks" alt=""/>
-      <caption webpage="artworks" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="sugar-hk" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="pipe" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="private-products" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="qr-code" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
+      <caption webpage="breath" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
       <caption webpage="archive" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
+      <caption webpage="sugar-hk" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
+      <caption webpage="private-products" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
       <caption webpage="serialism-calligraphy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
-      <caption webpage="breath" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="qr-code" alt=""/>
+      <caption webpage="artworks" alt=""/>
+      <caption webpage="artworks" alt=""/>
+      <caption webpage="artworks" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
+      <caption webpage="pipe" alt=""/>
       <caption webpage="cv" alt=""/>
       <caption webpage="cv" alt=""/>
       <caption webpage="cv" alt=""/>
@@ -616,6 +616,36 @@
     <file name="3-ca.jpg" crc="3864423407" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
+    <file name="4.jpg" crc="4211654727" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="4_2x.jpg" crc="4255386837" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0385x395.jpg" crc="68528065" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0385x395_2x.jpg" crc="160361683" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1385x391.jpg" crc="3971919649" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1385x391_2x.jpg" crc="4123325191" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0388x388.jpg" crc="227234227" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0388x388_2x.jpg" crc="169070443" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1381x391.jpg" crc="203846229" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1381x391_2x.jpg" crc="117858100" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
     <file name="screen shot 2017-11-15 at 73303 pm.jpg" crc="3792859484" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
@@ -637,13 +667,7 @@
     <file name="screen shot 2017-11-15 at 73335 pm.jpg" crc="3995509579" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,0).jpg" crc="3934209475" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="pasted image 443x806.png" crc="4174178971" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="pasted image 443x806_2x.png" crc="132757064" seo="true" ref="serialism-calligraphy">
+    <file name="screen shot 2017-11-15 at 73344 pm.jpg" crc="3792556410" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="屏幕快照 2017-10-08 下午81254.jpg" crc="3923621496" seo="true" ref="serialism-calligraphy">
@@ -652,67 +676,55 @@
     <file name="屏幕快照 2017-10-08 下午81254_2x.jpg" crc="202531066" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="screen shot 2017-11-15 at 73344 pm.jpg" crc="3792556410" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="屏幕快照 2017-10-08 下午81302.jpg" crc="3847593873" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="屏幕快照 2017-10-08 下午81302_2x.jpg" crc="3835888903" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0).jpg" crc="3778082721" seo="true" ref="serialism-calligraphy">
+    <file name="pasted image 443x806.png" crc="4174178971" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)_2x.jpg" crc="307961399" seo="true" ref="serialism-calligraphy">
+    <file name="pasted image 443x806_2x.png" crc="132757064" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,1).jpg" crc="349699418" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0).jpg" crc="3934209475" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,1)_2x.jpg" crc="4226230196" seo="true" ref="serialism-calligraphy">
+    <file name="1，0.jpg" crc="4176087808" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,0)529x529.jpg" crc="4163887954" seo="true" ref="serialism-calligraphy">
+    <file name="1，1.jpg" crc="3955942557" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,0)_2x.jpg" crc="459371670" seo="true" ref="serialism-calligraphy">
+    <file name="0，0.jpg" crc="4060462390" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,1).jpg" crc="3887577286" seo="true" ref="serialism-calligraphy">
+    <file name="0，1.jpg" crc="159400198" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,1)_2x.jpg" crc="466233140" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0).jpg" crc="398859918" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="4.jpg" crc="4211654727" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)_2x.jpg" crc="233948117" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="4_2x.jpg" crc="4255386837" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1).jpg" crc="4182066008" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0.jpg" crc="3954044877" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)_2x.jpg" crc="254146341" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0_2x.jpg" crc="480390713" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)388x388.jpg" crc="4208188833" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1.jpg" crc="505855365" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)388x388_2x.jpg" crc="106479793" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1_2x.jpg" crc="4108811835" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1).jpg" crc="4228350006" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0.jpg" crc="432958813" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，0_2x.jpg" crc="180636550" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，1.jpg" crc="3791915119" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，1_2x.jpg" crc="3972454109" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)_2x.jpg" crc="3941675160" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x.jpg" crc="195236204" seo="true" ref="serialism-calligraphy">
@@ -737,6 +749,36 @@
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="3-ca645x666.jpg" crc="3947934654" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="4617x449.jpg" crc="145968153" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="4617x449_2x.jpg" crc="123259351" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0348x357.jpg" crc="488225811" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0348x357_2x.jpg" crc="3898001633" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1348x353.jpg" crc="4019002112" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1348x353_2x.jpg" crc="197443186" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0350x351.jpg" crc="216151485" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0350x351_2x.jpg" crc="3819487341" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1344x353.jpg" crc="4135604734" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1344x353_2x.jpg" crc="74721085" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 73303 pm424x190.jpg" crc="3850465889" seo="true" ref="serialism-calligraphy">
@@ -784,58 +826,40 @@
     <file name="(0,0)681x681.jpg" crc="237594464" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)508x508.jpg" crc="4119523480" seo="true" ref="serialism-calligraphy">
+    <file name="1，0655x671.jpg" crc="3818006608" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)508x508_2x.jpg" crc="307961399" seo="true" ref="serialism-calligraphy">
+    <file name="1，1655x664.jpg" crc="3836392604" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,1)508x509.jpg" crc="3875398225" seo="true" ref="serialism-calligraphy">
+    <file name="0，0659x660.jpg" crc="263229006" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,1)508x509_2x.jpg" crc="4226230196" seo="true" ref="serialism-calligraphy">
+    <file name="0，1648x664.jpg" crc="347417232" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,0)508x508.jpg" crc="502441032" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)349x349.jpg" crc="4263911037" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,0)508x508_2x.jpg" crc="459371670" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)349x349_2x.jpg" crc="263739021" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,1)508x505.jpg" crc="363529946" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)349x349.jpg" crc="4178293356" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,1)508x505_2x.jpg" crc="466233140" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)349x349_2x.jpg" crc="4265222787" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="4617x449.jpg" crc="145968153" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)349x349.jpg" crc="4034621092" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="4617x449_2x.jpg" crc="123259351" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)349x349_2x.jpg" crc="362260318" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0589x604.jpg" crc="3827506612" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)349x347.jpg" crc="3857506144" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0589x604_2x.jpg" crc="500503509" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="1，1589x598.jpg" crc="409837772" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="1，1589x598_2x.jpg" crc="4153468772" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，0593x594.jpg" crc="436952398" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，0593x594_2x.jpg" crc="487220019" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，1583x598.jpg" crc="334569361" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="0，1583x598_2x.jpg" crc="4099628749" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)349x347_2x.jpg" crc="4039327535" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x866x648.jpg" crc="4195031994" seo="true" ref="serialism-calligraphy">
@@ -860,6 +884,30 @@
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="3-ca588x607.jpg" crc="4178690796" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0587x602.jpg" crc="3960145022" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0587x602_2x.jpg" crc="13469996" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1587x595.jpg" crc="4172687579" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1587x595_2x.jpg" crc="303489542" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0590x591.jpg" crc="4282658842" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0590x591_2x.jpg" crc="3863550092" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1580x595.jpg" crc="3865049292" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1580x595_2x.jpg" crc="294869434" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 73303 pm387x173.jpg" crc="156780019" seo="true" ref="serialism-calligraphy">
@@ -907,58 +955,46 @@
     <file name="(0,0)621x621.jpg" crc="3925765176" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)463x463.jpg" crc="4251696660" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,0)463x463_2x.jpg" crc="307961399" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)463x464.jpg" crc="4247657820" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)463x464_2x.jpg" crc="4226230196" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)463x463.jpg" crc="307540946" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)463x463_2x.jpg" crc="459371670" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)463x460.jpg" crc="3875267294" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)463x460_2x.jpg" crc="466233140" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="4563x410.jpg" crc="267977700" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="4563x410_2x.jpg" crc="23802686" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0537x551.jpg" crc="505201105" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)354x354.jpg" crc="274442065" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0537x551_2x.jpg" crc="441783237" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)354x354_2x.jpg" crc="4078297001" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1537x545.jpg" crc="4050668821" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)353x354.jpg" crc="4138637425" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1537x545_2x.jpg" crc="4024702375" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)353x354_2x.jpg" crc="149203254" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0541x542.jpg" crc="121610725" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)354x354.jpg" crc="382234838" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0541x542_2x.jpg" crc="4013911850" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)354x354_2x.jpg" crc="472376360" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1532x545.jpg" crc="4263792461" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)354x351.jpg" crc="279052684" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1532x545_2x.jpg" crc="4034992731" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)354x351_2x.jpg" crc="4038669806" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0338x346.jpg" crc="4176976770" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1338x343.jpg" crc="422790628" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0340x341.jpg" crc="453378638" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1334x343.jpg" crc="3860696282" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x790x591.jpg" crc="4133901912" seo="true" ref="serialism-calligraphy">
@@ -985,6 +1021,30 @@
     <file name="3-ca519x536.jpg" crc="3970793820" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
+    <file name="1，0518x531.jpg" crc="4042573417" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0518x531_2x.jpg" crc="447598046" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1518x525.jpg" crc="300511083" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1518x525_2x.jpg" crc="4092569612" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0521x522.jpg" crc="1230524" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0521x522_2x.jpg" crc="290500224" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1512x525.jpg" crc="123289067" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1512x525_2x.jpg" crc="4108081798" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
     <file name="screen shot 2017-11-15 at 73303 pm342x153.jpg" crc="298616061" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
@@ -1006,13 +1066,7 @@
     <file name="screen shot 2017-11-15 at 73335 pm150x86.jpg" crc="3782929" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(0,0)548x548.jpg" crc="224417771" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="pasted image 443x806153x278.png" crc="3907146892" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="pasted image 443x806153x278_2x.png" crc="480024932" seo="true" ref="serialism-calligraphy">
+    <file name="screen shot 2017-11-15 at 73344 pm231x176.jpg" crc="4024467055" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="屏幕快照 2017-10-08 下午81254370x53.jpg" crc="3793889640" seo="true" ref="serialism-calligraphy">
@@ -1021,37 +1075,19 @@
     <file name="屏幕快照 2017-10-08 下午81254370x53_2x.jpg" crc="3900175323" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="screen shot 2017-11-15 at 73344 pm231x176.jpg" crc="4024467055" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="屏幕快照 2017-10-08 下午8130252x369.jpg" crc="373032836" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="屏幕快照 2017-10-08 下午8130252x369_2x.jpg" crc="192385790" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)410x410.jpg" crc="246471668" seo="true" ref="serialism-calligraphy">
+    <file name="pasted image 443x806153x278.png" crc="3907146892" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)410x410_2x.jpg" crc="3819808147" seo="true" ref="serialism-calligraphy">
+    <file name="pasted image 443x806153x278_2x.png" crc="480024932" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,1)409x410.jpg" crc="4079123704" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)409x410_2x.jpg" crc="3924476060" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)410x410.jpg" crc="4090412962" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)410x410_2x.jpg" crc="3922829623" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)410x407.jpg" crc="31299496" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)410x407_2x.jpg" crc="360823281" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)548x548.jpg" crc="224417771" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="4497x362.jpg" crc="3940669076" seo="true" ref="serialism-calligraphy">
@@ -1060,28 +1096,40 @@
     <file name="4497x362_2x.jpg" crc="402203414" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0475x487.jpg" crc="4194566044" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)312x312.jpg" crc="195818670" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0475x487_2x.jpg" crc="215746794" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)312x312_2x.jpg" crc="4120774116" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1475x482.jpg" crc="4294647876" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)312x312.jpg" crc="3914047919" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1475x482_2x.jpg" crc="4128537761" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)312x312_2x.jpg" crc="4251813572" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0478x479.jpg" crc="90530205" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)312x312.jpg" crc="346064197" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0478x479_2x.jpg" crc="429406286" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)312x312_2x.jpg" crc="245044044" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1470x482.jpg" crc="310394835" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)312x310.jpg" crc="27631207" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1470x482_2x.jpg" crc="4126108486" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)312x310_2x.jpg" crc="270304927" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0298x305.jpg" crc="30424470" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1298x302.jpg" crc="414644362" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0300x300.jpg" crc="464174890" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1294x302.jpg" crc="4101891582" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x698x522.jpg" crc="3838768603" seo="true" ref="serialism-calligraphy">
@@ -1106,6 +1154,30 @@
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="3-ca475x491.jpg" crc="3913540604" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0474x486.jpg" crc="321030004" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0474x486_2x.jpg" crc="69955156" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1474x481.jpg" crc="498275961" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1474x481_2x.jpg" crc="132313536" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0477x478.jpg" crc="4208098846" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0477x478_2x.jpg" crc="3818328777" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1469x481.jpg" crc="3833084097" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1469x481_2x.jpg" crc="4109524646" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 73303 pm313x140.jpg" crc="4090478024" seo="true" ref="serialism-calligraphy">
@@ -1153,58 +1225,46 @@
     <file name="(0,0)502x502.jpg" crc="99783578" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)375x375.jpg" crc="4098511424" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,0)375x375_2x.jpg" crc="279016869" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)374x375.jpg" crc="270164437" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)374x375_2x.jpg" crc="335611746" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)375x375.jpg" crc="4159704588" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)375x375_2x.jpg" crc="477570746" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)375x372.jpg" crc="166909759" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)375x372_2x.jpg" crc="3879919072" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="4455x331.jpg" crc="94566852" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="4455x331_2x.jpg" crc="4009555842" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0435x446.jpg" crc="3790689739" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)274x274.jpg" crc="44130044" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0435x446_2x.jpg" crc="263965913" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)274x274_2x.jpg" crc="411838058" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1435x441.jpg" crc="3867840201" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)274x274.jpg" crc="420620158" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1435x441_2x.jpg" crc="54187543" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)274x274_2x.jpg" crc="3955891138" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0437x438.jpg" crc="359385524" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)274x274.jpg" crc="243404136" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0437x438_2x.jpg" crc="4244136825" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)274x274_2x.jpg" crc="507807645" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1430x441.jpg" crc="358621020" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)274x272.jpg" crc="172743374" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1430x441_2x.jpg" crc="3905052818" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)274x272_2x.jpg" crc="3908273454" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0262x269.jpg" crc="3969967083" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1262x266.jpg" crc="3823947874" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0264x264.jpg" crc="294874033" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1259x266.jpg" crc="472126472" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x638x478.jpg" crc="406741180" seo="true" ref="serialism-calligraphy">
@@ -1222,13 +1282,37 @@
     <file name="2字435x427_2x.jpg" crc="3926322106" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="4-ca435x433.jpg" crc="4228745068" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="1-ca419x427.jpg" crc="44027478" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
+    <file name="4-ca435x433.jpg" crc="4228745068" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
     <file name="3-ca419x433.jpg" crc="4051088002" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0418x428.jpg" crc="211860881" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0418x428_2x.jpg" crc="515822747" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1418x424.jpg" crc="428293339" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1418x424_2x.jpg" crc="3798098210" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0420x421.jpg" crc="4270377148" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0420x421_2x.jpg" crc="233578191" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1413x424.jpg" crc="3854597982" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1413x424_2x.jpg" crc="4016950504" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 73303 pm276x124.jpg" crc="4079677008" seo="true" ref="serialism-calligraphy">
@@ -1276,58 +1360,46 @@
     <file name="屏幕快照 2017-10-08 下午8130242x298_2x.jpg" crc="3810536223" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)330x330.jpg" crc="3858418516" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,0)330x330_2x.jpg" crc="275337701" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)330x331.jpg" crc="3808994859" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)330x331_2x.jpg" crc="4238063442" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)330x330.jpg" crc="4116515393" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)330x330_2x.jpg" crc="4014481031" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)330x328.jpg" crc="105813697" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)330x328_2x.jpg" crc="3861260304" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="4401x292.jpg" crc="3816107809" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="4401x292_2x.jpg" crc="42365718" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0383x393.jpg" crc="71877690" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)241x241.jpg" crc="4044209907" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0383x393_2x.jpg" crc="3836671689" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)241x241_2x.jpg" crc="4112790772" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1383x389.jpg" crc="216145854" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)241x242.jpg" crc="3874802680" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1383x389_2x.jpg" crc="277761440" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)241x242_2x.jpg" crc="4175715927" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0386x386.jpg" crc="93885398" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)241x241.jpg" crc="36240048" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0386x386_2x.jpg" crc="4041353189" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)241x241_2x.jpg" crc="4198009209" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1379x389.jpg" crc="3876732015" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)241x240.jpg" crc="3888703849" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1379x389_2x.jpg" crc="255562388" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)241x240_2x.jpg" crc="72463204" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0231x237.jpg" crc="400077749" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1231x235.jpg" crc="253077932" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0233x233.jpg" crc="3994489352" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1229x235.jpg" crc="4202533370" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x563x421.jpg" crc="509007621" seo="true" ref="serialism-calligraphy">
@@ -1352,6 +1424,30 @@
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="3-ca357x369.jpg" crc="113797048" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0356x365.jpg" crc="3876119103" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0356x365_2x.jpg" crc="3789604941" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1356x361.jpg" crc="4158917017" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1356x361_2x.jpg" crc="169211773" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0358x359.jpg" crc="137983633" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0358x359_2x.jpg" crc="68542565" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1352x361.jpg" crc="208866618" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1352x361_2x.jpg" crc="526133257" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 73303 pm235x105.jpg" crc="111035356" seo="true" ref="serialism-calligraphy">
@@ -1399,58 +1495,46 @@
     <file name="屏幕快照 2017-10-08 下午8130236x254_2x.jpg" crc="3873735314" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)281x281.jpg" crc="3964620809" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,0)281x281_2x.jpg" crc="4218834080" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)281x282.jpg" crc="489132992" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)281x282_2x.jpg" crc="4193318389" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)281x281.jpg" crc="4177107562" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)281x281_2x.jpg" crc="226815430" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)281x280.jpg" crc="72900678" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)281x280_2x.jpg" crc="3958654446" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="4342x249.jpg" crc="4131504187" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="4342x249_2x.jpg" crc="4121393030" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0326x335.jpg" crc="3828220577" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)206x206.jpg" crc="3861438315" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0326x335_2x.jpg" crc="4192990644" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)206x206_2x.jpg" crc="4128618518" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1326x331.jpg" crc="3760637605" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)206x206.jpg" crc="4107739731" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1326x331_2x.jpg" crc="247507039" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)206x206_2x.jpg" crc="498794652" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0328x329.jpg" crc="3953284121" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)206x206.jpg" crc="4205871924" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0328x329_2x.jpg" crc="4293335381" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)206x206_2x.jpg" crc="417339297" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1323x331.jpg" crc="333023040" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)206x204.jpg" crc="4041705725" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1323x331_2x.jpg" crc="50239602" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)206x204_2x.jpg" crc="4102386748" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0197x202.jpg" crc="324948554" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1197x200.jpg" crc="250647790" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0198x199.jpg" crc="3948801779" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1195x200.jpg" crc="105375433" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x479x359.jpg" crc="4076070224" seo="true" ref="serialism-calligraphy">
@@ -1475,6 +1559,30 @@
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="3-ca304x314.jpg" crc="489246847" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0303x310.jpg" crc="247311441" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0303x310_2x.jpg" crc="4206938478" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1303x307.jpg" crc="107577155" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1303x307_2x.jpg" crc="4149601959" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0305x305.jpg" crc="7466872" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0305x305_2x.jpg" crc="4061056867" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1299x307.jpg" crc="4031775516" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1299x307_2x.jpg" crc="3765341555" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="screen shot 2017-11-15 at 73303 pm200x90.jpg" crc="131076376" seo="true" ref="serialism-calligraphy">
@@ -1522,58 +1630,46 @@
     <file name="屏幕快照 2017-10-08 下午8130231x216_2x.jpg" crc="530002231" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="(1,0)239x239.jpg" crc="217704873" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,0)239x239_2x.jpg" crc="4203806194" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)239x240.jpg" crc="164520293" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(1,1)239x240_2x.jpg" crc="9734414" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)239x239.jpg" crc="8446844" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,0)239x239_2x.jpg" crc="3836025693" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)239x238.jpg" crc="3924650497" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
-    <file name="(0,1)239x238_2x.jpg" crc="514275067" seo="true" ref="serialism-calligraphy">
-      <caption webpage="serialism-calligraphy" alt=""/>
-    </file>
     <file name="4291x212.jpg" crc="9239670" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="4291x212_2x.jpg" crc="3765295843" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0278x285.jpg" crc="3937534281" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)175x175.jpg" crc="83879197" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，0278x285_2x.jpg" crc="314350958" seo="true" ref="serialism-calligraphy">
+    <file name="(1,0)175x175_2x.jpg" crc="4263911037" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1278x282.jpg" crc="407101727" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)175x175.jpg" crc="253145205" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="1，1278x282_2x.jpg" crc="48660667" seo="true" ref="serialism-calligraphy">
+    <file name="(1,1)175x175_2x.jpg" crc="343526964" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0279x280.jpg" crc="4146307533" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)175x175.jpg" crc="132898430" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，0279x280_2x.jpg" crc="3979576348" seo="true" ref="serialism-calligraphy">
+    <file name="(0,0)175x175_2x.jpg" crc="4034621092" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1275x282.jpg" crc="514654646" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)175x174.jpg" crc="235458614" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
-    <file name="0，1275x282_2x.jpg" crc="467610526" seo="true" ref="serialism-calligraphy">
+    <file name="(0,1)175x174_2x.jpg" crc="4286944670" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，0168x172.jpg" crc="271337766" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="1，1168x170.jpg" crc="217037441" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，0169x169.jpg" crc="3788892087" seo="true" ref="serialism-calligraphy">
+      <caption webpage="serialism-calligraphy" alt=""/>
+    </file>
+    <file name="0，1166x170.jpg" crc="3994954061" seo="true" ref="serialism-calligraphy">
       <caption webpage="serialism-calligraphy" alt=""/>
     </file>
     <file name="img_1310775x580_2x408x305.jpg" crc="3929828135" seo="true" ref="serialism-calligraphy">
@@ -3326,16 +3422,16 @@
       <caption webpage="private-products" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3969816922" seo="true" mt="1511949173384" redirect="true"/>
-  <file name="about.html" crc="3912701604" seo="true" mt="1511944173827" redirect="true"/>
-  <file name="artworks.html" crc="463732790" seo="true" mt="1511952408115" redirect="true"/>
-  <file name="cv.html" crc="262727163" seo="true" mt="1511954873617" redirect="true"/>
-  <file name="contact.html" crc="311721301" seo="true" mt="1511954975366" redirect="true"/>
-  <file name="qr-code.html" crc="3821290842" seo="true" mt="1511955015814" redirect="true"/>
-  <file name="serialism-calligraphy.html" crc="4130099893" seo="true" mt="1511955185502" redirect="true"/>
-  <file name="archive.html" crc="369029435" seo="true" mt="1511955173518" redirect="true"/>
-  <file name="breath.html" crc="4069786777" seo="true" mt="1511955142766" redirect="true"/>
-  <file name="pipe.html" crc="214592327" seo="true" mt="1511955129766" redirect="true"/>
-  <file name="sugar-hk.html" crc="438533630" seo="true" mt="1511955062798" redirect="true"/>
-  <file name="private-products.html" crc="83371352" seo="true" mt="1511944963135" redirect="true"/>
+  <file name="index.html" crc="4158428640" seo="true" mt="1511949173384" redirect="true"/>
+  <file name="about.html" crc="3979001018" seo="true" mt="1511944173827" redirect="true"/>
+  <file name="artworks.html" crc="3888144706" seo="true" mt="1511952408115" redirect="true"/>
+  <file name="cv.html" crc="337390770" seo="true" mt="1514401633189" redirect="true"/>
+  <file name="contact.html" crc="193227149" seo="true" mt="1511954975366" redirect="true"/>
+  <file name="qr-code.html" crc="365322780" seo="true" mt="1514406886634" redirect="true"/>
+  <file name="serialism-calligraphy.html" crc="4292936847" seo="true" mt="1514409896687" redirect="true"/>
+  <file name="archive.html" crc="323921188" seo="true" mt="1514405412790" redirect="true"/>
+  <file name="breath.html" crc="3893203079" seo="true" mt="1514405199624" redirect="true"/>
+  <file name="pipe.html" crc="170143275" seo="true" mt="1514404849090" redirect="true"/>
+  <file name="sugar-hk.html" crc="4211503900" seo="true" mt="1514409458432" redirect="true"/>
+  <file name="private-products.html" crc="3984594322" seo="true" mt="1514409409613" redirect="true"/>
 </manifest>
